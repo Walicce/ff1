@@ -48,6 +48,9 @@ public class Main {
             System.out.println("///");
         }
 
+
+        
+
         System.out.println(plane1);
         System.out.println(plane2);
     }
